@@ -1,0 +1,39 @@
+.white{
+  width: 50px;
+  height: 200px;
+  background-color:#F7F4EA ;
+  padding: 100px;
+
+}
+
+.aqua{
+  width:50px;
+  height: 200px;
+  background-color: #568EA3;
+  padding: 100px;
+}
+
+.blue{
+  width:50px;
+  height: 200px;
+  background-color:#336699;
+  padding: 100px;
+}
+
+.lightblue{
+  width:50px;
+  height: 200px;
+  background-color:#86BBD8;
+  padding: 100px;
+}
+
+.darkblue{
+  width:50px;
+  height:200px;
+  background-color:#2F4858;
+  padding: 100px;
+}
+h1{
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+}
